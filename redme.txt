@@ -1,2 +1,2 @@
-This is a basic code for a telegram bot that when prompted with /fetch + cardname will return the card with a picture, price and legality in commander format. 
+This is a basic python code for a telegram bot that when prompted with /fetch + cardname will return the card with a picture, price and legality in commander format. The code is written with the help of chatGPT. 
 To make this bot work, create a new bot with botfather in telegram, and enter the bot api key in to the var file. 
